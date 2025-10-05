@@ -1,20 +1,34 @@
-<!-- Banner ou apresentação -->
-<h1 align="center">👋 Olá, eu sou o Ereikson!</h1>
-<h3 align="center">Desenvolvedor | Java | Golang | AWS | OCI | DEVOPS</h3>
+<!-- Banner ou apresentação 
+<h1 align="center">👋 Olá, eu sou o Ereikson!</h1> -->
+<h3 align="center">Desenvolvedor Back-end | Java | Golang | AWS | OCI | DEVOPS</h3>
 
 ---
 
 ### 🧑‍💻 Sobre mim
 
+Desenvolvedor Back-end com 3 anos de experiência no desenvolvimento de APIs REST, sistemas distribuídos e comunicação entre sistemas. Conhecimento sólido em nuvem, possuo as certificações AWS Cloud Practitioner e OCI Foundations.
+
 ---
 
-### ⚙️ Stack e Tecnologias Principais
+### ⚙️ Hard Skills
 
-💻 **Linguagens e Frameworks**
-- Java
-- Golang
-- SQL (PostgreSQL, MySQL)
+Back-end
+APIS : REST
+Comunicação assíncrona : SNS, SQS
+SQL : MySQL, PostgreSQL
+NoSQL : DynamoDB
 
+DevOps
+CI/CD : Github Actions
+Observabilidade: Aws CloudWatch
+Iac: Terraform, Aws CloudFormation
+
+Arquitetura e Padrões de projeto:
+Singleton
+ACID
+
+Front-end
+Angular
 ---
 
 ### 📊 Projetos em Destaque
@@ -37,8 +51,8 @@ Pipeline de dados automatizado para processamento **ETL com Airflow**, aplicando
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<teu_usuario>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<teu_usuario>&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<Ereikson>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<Ereikson>&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
